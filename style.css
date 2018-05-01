@@ -88,6 +88,11 @@ article h2 {
 }
 
 footer {
+  background-image: url("background.png");
+  background-size: 400px;
+  background-repeat: repeat-x;
+  background-position: bottom;
+  background-attachment: fixed;
   padding: 25px;
 }
 
